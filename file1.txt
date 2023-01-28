@@ -1,2 +1,5 @@
 Hello This is file1.txt
 Thank you for editing the file.
+---------------------------------
+I am editing this from git hub hope you will like it
+
